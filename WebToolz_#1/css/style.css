@@ -35,4 +35,6 @@ root {
     background-color: #0099cc;
     width: 0px;
     height: 30px;
+    background-image: -moz-linear-gradient(45deg, rgba(255, 255, 255, 0.2) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, transparent 75%, transparent);
+    background-size: 10px 10px;
 }
